@@ -1,0 +1,3 @@
+dist/
+.sites-local/
+node_modules/
